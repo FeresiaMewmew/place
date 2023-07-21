@@ -3,18 +3,28 @@
     "contact": "https://discord.gg/QRYEp5jKWj",
     "templates": [
         {
-            "name": "GFL",
+            "name": "GFLLong",
             "sources": [
-                "https://i.imgur.com/QtWGGKw.png"
+                "https://i.imgur.com/aLUBJoh.png"
             ],
-            "x": 162,
-            "y": 702
+            "x": 799,
+            "y": 587
         }
     ],
     "whitelist": [
         {
-            "name": "P3ACE",
-            "url": "https://charity.pxls.space/"
+            "name": "P3ACE Combined Template",
+            "url": "https://charity.pxls.space/p3ace"
+        },
+        {
+            "name": "United Gacha Alliance Template",
+            "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
+        }
+    ],
+    "blacklist": [
+        {
+            "name": "PlacePride",
+            "url": "https://pride.place/template.json"
         }
     ]
 }
