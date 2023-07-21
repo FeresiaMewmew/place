@@ -1,0 +1,20 @@
+{
+    "faction": "GirlsFrontline + Va11",
+    "contact": "https://discord.gg/QRYEp5jKWj",
+    "templates": [
+        {
+            "name": "GFL",
+            "sources": [
+                "https://i.imgur.com/QtWGGKw.png"
+            ],
+            "x": 162,
+            "y": 702
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "P3ACE",
+            "url": "https://charity.pxls.space/"
+        }
+    ]
+}
