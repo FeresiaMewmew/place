@@ -14,11 +14,11 @@
     "whitelist": [
         {
             "name": "P3ACE Combined Template",
-            "url": "https://charity.pxls.space/p3ace"
+            
         },
         {
             "name": "United Gacha Alliance Template",
-            "url": "https://raw.githubusercontent.com/GachaAlliance/place2023/main/template.json"
+            
         }
     ],
     "blacklist": [
